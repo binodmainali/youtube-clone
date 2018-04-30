@@ -1,5 +1,6 @@
 import React from 'react';
 import VideoListItem from './video_list_item';
+import '../../style/style.css'
 
 // Defines a functional video list component
 const VideoList = (props) => {
